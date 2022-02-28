@@ -1,5 +1,6 @@
 ## Luc Sanchez ePortfolio
-
+### Code Review
+[link to mp4 in repo](https://github.com/lsanchsnhu/lsanchsnhu.github.io/blob/main/Code%20Review/Code%20Review.mp4)
 ### Artifacts
 
 ### Software Design and Engineering
